@@ -1,1 +1,1 @@
-# angularJS-2
+# angularjs2
